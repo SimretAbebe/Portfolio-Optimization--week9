@@ -1,3 +1,33 @@
-pytest>=7.0.0
-black>=23.0.0
-flake8>=6.0.0
+# Data extraction
+yfinance==0.2.40
+
+# Data wrangling
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+
+# Statistical modeling
+statsmodels==0.14.2
+pmdarima==2.0.4
+
+# Deep learning
+tensorflow==2.16.1
+keras==3.3.3
+
+# Scaling & evaluation
+scikit-learn==1.4.2
+
+# Portfolio optimization (MPT / Efficient Frontier)
+PyPortfolioOpt==1.5.5
+
+# Notebook environment
+jupyter==1.0.0
+ipykernel==6.29.4
+
+# Utilities
+tqdm==4.66.4
+python-dateutil==2.9.0
