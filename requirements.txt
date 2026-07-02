@@ -28,6 +28,9 @@ PyPortfolioOpt==1.5.5
 jupyter==1.0.0
 ipykernel==6.29.4
 
+# Testing
+pytest>=7.0.0
+
 # Utilities
 tqdm==4.66.4
 python-dateutil==2.9.0
