@@ -1,0 +1,12 @@
+# Minimal seaborn-deep style (no extension) to satisfy plt.style.use('seaborn-deep')
+axes.facecolor: white
+figure.facecolor: white
+grid.color: #e5e5e5
+grid.linestyle: -
+grid.linewidth: 0.8
+axes.grid: True
+lines.linewidth: 1.5
+font.size: 12
+axes.titlesize: 14
+axes.labelsize: 12
+legend.frameon: False
