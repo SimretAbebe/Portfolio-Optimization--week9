@@ -1,0 +1,8 @@
+# Backup of original seaborn-deep.mplstyle (invalid -- contained Python code)
+# Kept as a backup in case you want to restore or convert it later.
+# Original contents below:
+# Minimal seaborn-deep style fallback for Matplotlib
+# This file ensures that plt.style.use('seaborn-deep') works without error.
+# It simply applies seaborn's default style.
+import seaborn as sns
+sns.set_theme(style="darkgrid")
